@@ -1,0 +1,5 @@
+{
+  "name": "Art Gallery Demo",
+  "description": "A demo e-commerce website for an art gallery, built with React and TailwindCSS. It features a gallery, detailed artwork views with image zoom, artist bios, a wishlist, and a simulated shopping cart and checkout process. To run locally: 1. Unzip the project files. 2. In the project root, run 'npm install'. 3. Run 'npm run dev'.",
+  "requestFramePermissions": []
+}
